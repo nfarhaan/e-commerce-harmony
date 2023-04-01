@@ -13,7 +13,7 @@ Software Engineering Year 2
 <br>
 SIS 2045Y - Web Application Development
 
-SCREENSHOTS
+SCREENSHOTS:
 
 ![image](https://user-images.githubusercontent.com/96138084/229287771-2ed33319-27c8-4630-ab90-4f755573e3b8.png)
 
